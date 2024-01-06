@@ -1,0 +1,14 @@
+/bin
+/obj
+/lib
+
+# Binaries
+*.dll
+*.pdb
+*.o
+*.lib
+*.a
+
+# Visual Studio
+/.vs
+/FakesAssemblies
